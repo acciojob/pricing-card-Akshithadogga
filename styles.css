@@ -7,6 +7,10 @@
 	border-radious:5%;
 	
 }
+.center{
+	display:flex;
+	justify-content:center;
+}
 .heading{
 	font-size:48px;
 }
